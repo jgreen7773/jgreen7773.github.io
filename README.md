@@ -24,7 +24,7 @@
 
 I hope you enjoyed reading my wonderful words.
 
-[Link](jgreen7773.github.io) and ![Image](src)
+[Link](jgreen7773.github.io) and ![Image](src)         And...there is no image here but I want to keep the code in place.
 ```
 
 ### If you need any help with homework, I love to share notes and receive help as well!
